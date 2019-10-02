@@ -1,8 +1,8 @@
 # example
-just try to learn git & github
+just trying to learn git & github
 
-see a github view of this repo
-using a default theme provide by github
+see a github view of this repository
+using a default theme provided by github
 
 https://jugtaram.github.io/LearningGit/
 
